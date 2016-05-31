@@ -110,6 +110,10 @@ a user with sudo access or as the user root:
 For Gentoo, Arch, and FreeBSD, or if this installer fails, you must
 install these drivers manually.  
 
+For Windows servers, the following article details how to update the Xen Server (Citrix) tools for Windows:
+
+https://support.rackspace.com/how-to/upgrade-citrix-xen-server-tools-for-windows-cloud-servers/
+
 ### Nova agent check
 
 In the XenServer infrastructure, the OpenStack&reg; guest agent is the same
