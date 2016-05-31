@@ -28,7 +28,7 @@ Payments are charged automatically to a credit card.
 
 #### How can I estimate my monthly bill?
 
-You can use our [Cloud Pricing Page](http://www.rackspace.com/cloud/public-pricing/) and [Cloud Pricing Calculator](http://www.rackspace.com/calculator/) to estimate pricing.
+You can use our [Cloud Pricing Page](http://www.rackspace.com/cloud/public-pricing/) and [Cloud Pricing Calculator](http://www.rackspace.com/calculator/) to estimate pricing. Additionally, for server pricing specifically, you can go through the "Create Server" process, selecting different images, flavors, and sizes -- the pricing per hour or day can be toggled by clicking on the green dollar sign.  The servers are not charged unless you select the "Create Server" button at the bottom of the page.  
 
 #### Can I pay in advance?
 
@@ -51,7 +51,8 @@ Follow these steps to view your invoice:
     the page.
 3.  From the menu, select **Billing and Payments**.
 
-Invoices are available as a summarized PDF and a more detailed CSV file.
+Invoices are available as a summarized PDF, a more detailed CSV file, and a "Detailed Billing" link.  
+For expansion of each product's detail within the detailed billing view, simply click on the down arrows to the left of each product.
 For assistance with the CSV file, see [How To Read Your Invoice In CSV Format](https://community.rackspace.com/products/f/25/t/4950) in our
 Community forum. We also provide [pivot tables in downloadable spreadsheets](/how-to/use-pivot-tables-with-your-cloud-billing-invoice)
 to help you organize your billing information.
